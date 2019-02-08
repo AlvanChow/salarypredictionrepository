@@ -1,0 +1,2 @@
+# salarypredictionrepository
+Salary Prediction Project
